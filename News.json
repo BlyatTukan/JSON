@@ -1,42 +1,100 @@
 [
+    {
+        "Date":"28/11/2020",
+        "Default_Type":"New Update",
+        "Default_Title":"Version Dev Build 0.0.35a",
+        "Default_Description":"Nowy System broni i ekwipunku",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/tbSRHrE.png"
+    },
+
+    {
+        "Date":"12/10/2020",
+        "Default_Type":"Message",
+        "Default_Title":"Add 2 new weapon",
+        "Default_Description":"Dragunov, M82",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/tbSRHrE.png"
+    },
+
+    {
+        "Date":"08/10/2020",
+        "Default_Type":"Message",
+        "Default_Title":"Add 4 new weapon",
+        "Default_Description":"4 Pistols",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/fDxRNiO.png"
+    },
+
+    {
+        "Date":"26/09/2020",
+        "Default_Type":"Message",
+        "Default_Title":"New Open Alpha",
+        "Default_Description":"...",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/f9hqny0.png"
+    },
+
+    {
+        "Date":"14/09/2020",
+        "Default_Type":"Message",
+        "Default_Title":"Add 5 new weapon",
+        "Default_Description":"MP5, UZI, AGRAM 2000, VECTOR, P90",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/u5cNnvq.png"
+    },
+
+    {
+        "Date":"29/08/2020",
+        "Default_Type":"Message",
+        "Default_Title":"Add 3  weapon",
+        "Default_Description":"AK-47, SCAR-H, M4A4",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/0cnEL28.png"
+    },
+
+    {
+        "Date":"28/08/2020",
+        "Default_Type":"Test Patch",
+        "Default_Title":"Weapon System Rework I",
+        "Default_Description":"Recoil Pattern, New Metal Material",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/f9hqny0.png"
+    },
+
+    {
+        "Date":"13/08/2020",
+        "Default_Type":"Message",
+        "Default_Title":"Bug Report",
+        "Default_Description":"Settings -> General -> Report Bug",
+        "Poland_Type":"England Type",
+        "Poland_Title":"England Title",
+        "Poland_Description":"England Description",
+        "ImageUrl":"https://i.imgur.com/iEsBEjh.png"
+    },
+      
    {
-       "Date":"00/00/0000",
-       "Default_Name":"PRODUCT PAGE",
-       "Default_Description":"Description1",
-       "Poland_Name":"......",
-       "Poland_Description":"......",
-       "ImageUrl":"https://items.gog.com/not_a_cp/PL_product-page-addons-2020.png"
-   },
-   {
-    "Date":"00/00/0000",
-       "Default_Name":"2ABOUT GAME",
-       "Default_Description":"Description2",
-       "Poland_Name":"......",
-       "Poland_Description":"......",
-       "ImageUrl":"https://items.gog.com/not_a_cp/PL/PL-About-the-Game.png"
-   },
-   {
-    "Date":"00/00/0000",
-       "Default_Name":"OUTLAW",
-       "Default_Description":"Description3",
-       "Poland_Name":"......",
-       "Poland_Description":"......",
-       "ImageUrl":"https://items.gog.com/not_a_cp/PL/PL-Mercenary-Outlaw.png"
-   },
-   {
-    "Date":"00/00/0000",
-       "Default_Name":"ETERNAL LIFE",
-       "Default_Description":"Description4",
-       "Poland_Name":"......",
-       "Poland_Description":"......",
-       "ImageUrl":"https://items.gog.com/not_a_cp/PL/PL-Eternal-Life.png"
-   },
-   {
-    "Date":"00/00/0000",
-       "Default_Name":"THE FUTURE",
-       "Default_Description":"Description5",
-       "Poland_Name":"......",
-       "Poland_Description":"......",
-       "ImageUrl":"https://items.gog.com/not_a_cp/PL/PL-City-of-the-Future.png"
+       "Date":"02/08/2020",
+       "Default_Type":"Message from Developer",
+       "Default_Title":"Project P.A.G.O.W. rebuild",
+       "Default_Description":"New Light System, Audio System and More...",
+       "Poland_Type":"England Type",
+       "Poland_Title":"England Title",
+       "Poland_Description":"England Description",
+       "ImageUrl":"https://i.imgur.com/d0E6bxc.png"
    }
 ]
